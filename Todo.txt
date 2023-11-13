@@ -1,0 +1,16 @@
+#creati un pachet care sa lucreze cu fisierul csv masini.csv se
+#acesta va avea urmatoarele module:
+#afisari:
+    #afiseaza toate masinile dintr-un judet anume 
+    #afiseaza toate masinile dintr-o categorie anume 
+    #afiseaza toate masinile care sunt mai multe de 10 
+#conversii 
+    #converteste fisierul din csv in json 
+    #converteste fisierul in fisier text unde fiecare linie este de tipul "Vehicul de tip <CATEGORIE_NATIONALA> din judetul <JUDET> marca <MARCA>: <TOTALVEHICULE> <TOTAL
+    #converteste un fisier json primit ca parametru in fisier csv (pe caz general)
+
+#calcule
+    #calculeaza numarul total de masini din tara 
+    #calculeaza numarul total de masini dintr-un judet primit ca parametru
+    #calculeaza numarul total de masini dintr-o anumita categorie nationala 
+    #calculeaza numarul total de masini in functie de tipul de combustibil pe care il folosesc
